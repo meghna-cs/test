@@ -1,0 +1,9 @@
+
+{
+  "name": "ScholarSmart AI - The Ultimate Student Suite",
+  "description": "An all-in-one academic companion featuring attendance tracking, AI assignment solving, GPA management, and Pomodoro study timers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
